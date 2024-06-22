@@ -37,4 +37,34 @@ The "Student Hub" app, version 1.0, enhances college students' academic and soci
    
 
 ## Additional Information
-For further details on using and configuring the application, please refer to the documentation in the repository.
+
+## FLUTTER
+
+### Installation Steps:
+
+1. Create a new Flutter project.
+   - For Windows: [Setup Guide](https://medium.com/@m.yuvaraj2303/flutter-programming-for-android-with-vscode-instead-of-using-android-studio-in-windows-af20f2d67e81)
+   - For Mac: [Setup Guide](https://wahyu-ehs.medium.com/setup-flutter-on-mac-with-vscode-editor-3b9653773e85)
+
+## **Running the Project:**
+
+   To run the Flutter project on your local machine or different platforms, follow these steps:
+
+- **Open the Project:**
+     Navigate to the directory where your Flutter project is located using your terminal or command prompt. 
+
+     For macOS:
+     ```
+     open -a simulator
+     flutter run
+     ```
+
+- **For Android/Windows:**
+
+     If you're planning to run the project on an emulator or physical device, ensure that it is properly configured and connected to your development machine.
+
+     - **For Android:**
+       Open Android Studio and launch the Android Virtual Device (AVD) Manager to start an emulator then run command :
+       ```
+       flutter run
+       ```
