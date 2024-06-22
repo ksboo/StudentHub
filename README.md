@@ -53,7 +53,7 @@ The "Student Hub" app, version 1.0, enhances college students' academic and soci
 - **Open the Project:**
      Navigate to the directory where your Flutter project is located using your terminal or command prompt. 
 
-     For macOS:
+     **For macOS:**
      ```
      open -a simulator
      flutter run
@@ -63,8 +63,10 @@ The "Student Hub" app, version 1.0, enhances college students' academic and soci
 
      If you're planning to run the project on an emulator or physical device, ensure that it is properly configured and connected to your development machine.
 
-     - **For Android:**
-       Open Android Studio and launch the Android Virtual Device (AVD) Manager to start an emulator then run command :
-       ```
-       flutter run
-       ```
+     **For Android:**
+
+     Open Android Studio and launch the Android Virtual Device (AVD) Manager to start an emulator then run command :
+  
+       
+      flutter run
+       
